@@ -100,3 +100,7 @@ impact on the society.
 Using the know-how, tools, experience, software tools and support from
 us, you can open your own Paralelní Polis in your
 "[polis](https://en.wikipedia.org/wiki/Polis)".
+
+[Head over to our Wiki to get started](https://github.com/ParalelniPolis/ParalelniPolis-decentralized/wiki)
+
+If you have a question, [check the issues or create a new one](https://github.com/ParalelniPolis/ParalelniPolis-decentralized/issues)
