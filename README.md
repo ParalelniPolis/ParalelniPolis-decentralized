@@ -9,7 +9,7 @@ tools.
 From the intervention of a live broadcast of Czech Television to
 the virtual interaction with politician’s mobile phones, we as
 members of the Ztohoven group are associated with hacking. The
-inspiration of technological innovation and it’s potential impact
+inspiration of technological innovation and its potential impact
 on society led us to a tight interaction with the hacker scene.
 As we understand the connection between the arts, science and
 technology as a tool to highlight the authoritarian tendencies which
