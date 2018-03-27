@@ -49,7 +49,7 @@ society.
 ## What is it?
 
 Paralelní Polis consist of several concepts that all aim at one thing -
-helping people opt-out from the current authoritative system.
+helping people opt-out from the current authoritarian system.
 
 In Bitcoin Coffee, people learn there is an alternative financial system
 (we only accept Bitcoin and Litecoin as payment), we only play Creative
